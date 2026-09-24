@@ -1,0 +1,6 @@
+{
+  "name": "Google AI Studio Voice & TTS Studio",
+  "description": "Ứng dụng chuyển đổi văn bản thành giọng nói (Text-to-Speech) chuyên nghiệp với phong cách và giọng đọc chuẩn Google AI Studio (Gemini TTS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
